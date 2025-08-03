@@ -11,6 +11,11 @@ This project focuses on recognizing human moods from facial images using convolu
 
 ---
 
+## Dataset
+
+- Link :- https://www.kaggle.com/datasets/muhammadhananasghar/human-emotions-datasethes?select=EmotionsDataset_Splitted
+  
+
 ## 🧠 Models Used
 
 - ✅ VGG-16
