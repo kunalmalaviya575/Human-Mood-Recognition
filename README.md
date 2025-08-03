@@ -1,6 +1,6 @@
 # Human Mood Recognition using Deep Learning
 
-This project focuses on recognizing human moods from facial images using convolutional neural networks (CNNs). It's developed as a summer research project and demonstrates the application of transfer learning, data augmentation, and model fusion to improve classification accuracy.
+This project focuses on recognizing human moods from facial images using convolutional neural networks (CNNs). It's developed as a summer research project and demonstrates the application of transfer learning, data augmentation, and various CNN architectures.
 
 ---
 
